@@ -1,15 +1,26 @@
-# 👋 Hi, I'm Stuti Saxena
+# Hi, I'm Stuti Saxena 👋
 
-## Technical Writer | B.Tech Computer Science Student | Content Writer
+## Technical Writer | B.Tech Computer Science Student | Creative Content Writer
 
-Welcome to my Technical Writing Portfolio.
+Welcome to my **Technical Writing Portfolio**.
 
-I am passionate about simplifying complex technical concepts into clear, user-friendly documentation. This portfolio showcases my technical writing samples, API documentation, user guides, tutorials, and product documentation.
+I am passionate about transforming complex technical concepts into clear, concise, and user-friendly documentation. This portfolio showcases my documentation skills through user guides, tutorials, API documentation, product documentation, and knowledge base articles.
 
-## Skills
+---
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech Computer Science Student at Rama University
+- ✍️ Professional Creative Content Writer
+- 💡 Two-time Smart India Hackathon Nominee
+- 📚 Passionate about Technical Writing and Documentation
+- 🚀 Currently building expertise in API Documentation, Software Documentation, and Developer Documentation
+
+---
+
+## 🛠 Technical Skills
 
 - Technical Writing
-- API Documentation
 - User Documentation
 - Software Documentation
 - Markdown
@@ -18,21 +29,55 @@ I am passionate about simplifying complex technical concepts into clear, user-fr
 - C++
 - Java
 - Python
+- HTML
 - Problem Solving
 
-## Portfolio Sections
+---
 
-- 📘 User Guides
-- 📗 Tutorials
-- 📙 API Documentation
-- 📕 Product Documentation
-- 📒 Knowledge Base Articles
-- 📓 Release Notes
+## 📂 Portfolio
 
-## Contact
+### 📘 User Guides
 
-📧 Email: Stutisaxena561@gmail.com 
+- Git Installation Guide
+- VS Code Installation Guide *(Coming Soon)*
+- Python Installation Guide *(Coming Soon)*
+- GitHub Beginner Guide *(Coming Soon)*
+- Postman Installation Guide *(Coming Soon)*
 
-LinkedIn: www.linkedin.com/in/stuti-saxena-611133282
+### 📗 Tutorials
 
-Thank you for visiting my portfolio!
+*Coming Soon*
+
+### 📙 API Documentation
+
+*Coming Soon*
+
+### 📕 Product Documentation
+
+*Coming Soon*
+
+### 📒 Knowledge Base Articles
+
+*Coming Soon*
+
+### 📓 Release Notes
+
+*Coming Soon*
+
+---
+
+## 🎯 Career Objective
+
+My goal is to become a Technical Writer who creates clear, accurate, and user-focused documentation that improves the developer and user experience.
+
+---
+
+## 📫 Contact
+
+- Email: Stutisaxena561@gmail.com 
+- GitHub: https://github.com/Stuti-saxena
+- LinkedIn: www.linkedin.com/in/stuti-saxena-611133282
+
+---
+
+⭐ Thank you for visiting my portfolio!
